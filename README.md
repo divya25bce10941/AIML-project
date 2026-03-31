@@ -31,7 +31,7 @@ This project builds an interpretable Linear Regression model to predict what an 
 | `children` | Number of dependents covered             |
 | `smoker`   | Smoking status (yes / no)                |
 | `region`   | Residential region in the US             |
-| `charges`  | ⭐ **Target** — medical cost billed       |
+| `charges`  | **Target** — medical cost billed       |
 
 ---
 
